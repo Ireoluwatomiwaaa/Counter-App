@@ -1,0 +1,29 @@
+
+
+.counterCard {
+  background-color: white;
+  padding-block: 20px;
+  padding-inline: 20px;
+  border-radius: 5px;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  position: absolute;
+  inset: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+} 
+
+button {
+  margin: 2px;
+}
